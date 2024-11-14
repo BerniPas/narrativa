@@ -120,8 +120,7 @@ hr {
 .navbar-default .navbar-nav > .active > a:hover:after,
 .navbar-default .navbar-nav > .active > a:focus:after {
   display: block !important;
-  position: absolute;
-  left: 0 ;
+/*   position: absolute; */
   bottom: -1px !important;
   width: 100% !important;
   height: 2px !important;

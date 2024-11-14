@@ -14,17 +14,13 @@ export const Navigation = (props) => {
           >
             {" "}
             <span className="sr-only">Toggle navigation</span>{" "}
-            <span className="icon-bar"></span>{" "}
-            <span className="icon-bar"></span>{" "}
-            <span className="icon-bar"></span>{" "}
           </button>
           <a 
-            className="navbar-brand page-scroll" 
             target="_blank" 
             rel="noopener noreferrer"
             href="https://educacion.uncuyo.edu.ar/">
             <img 
-              style={{width: "300px", height: "auto", marginTop: "-15px"}}
+              style={{width: "300px", height: "auto", marginTop: "auto", position: "relative !important"}}
               className="logo"
               src={logo} 
               alt="" />

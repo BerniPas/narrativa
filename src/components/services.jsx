@@ -11,18 +11,20 @@ export const Services = (props) => {
           </p>
         </div>
         <div className="row">
-         {/*  {props.data
+          {props.data
             ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`} className="col-md-4">
                   {" "}
-                  <i className={d.icon}></i>
+                  <a href={d.link} target="_blank" rel="noopener noreferrer">
+                    <i className={d.icon}></i>
+                  </a>
                   <div className="service-desc">
                     <h3>{d.name}</h3>
                     <p>{d.text}</p>
                   </div>
                 </div>
               ))
-            : "loading"} */}
+            : "loading"}
         </div>
       </div>
     </div>

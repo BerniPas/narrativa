@@ -12,7 +12,7 @@
       "Planificación de Clases",
       "Diseño de Recursos",
       "Evaluación de Aprendizajes",
-      "Investigación Educativa"
+      "Exploración de Aplicaciones"
     ],
     "Why2": [
       "Programación",
@@ -80,65 +80,59 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "link": "https://drive.google.com/file/d/1ftQQ5gDtDKU9G71b-Ar12k8AzW_1KhBN/view?usp=sharing",
+      "name": "Secuencias Didácticas",
+      "text": "Es esencial para guiar el aprendizaje, facilitando la comprensión gradual y profunda de los contenidos y habilidades necesarias para el éxito educativo."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "link": "https://ideogram.ai/t/my-images/public",
+      "name": "Enfoques de Enseñanza",
+      "text": "Están diseñados para gestionar el aprendizaje de manera eficiente, apoyar el bienestar emocional de los estudiantes y fomentar el pensamiento crítico y la emancipación."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "link": "https://www.educ.ar/recursos/fullscreen/show/22348",
+      "name": "Recursos Educativos Abiertos",
+      "text": "Herramientas fundamentales que permiten el acceso libre y equitativo al conocimiento, promoviendo la colaboración y la innovación en la educación."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "link": "https://dti.mendoza.edu.ar/gem/juntas/publico/incumbencias/titulos",
+      "name": "Incumbencias del Profesorado",
+      "text": "Cargos, espacios curriculares con incumbencias de nuestra carrera dentro de los diferentes niveles del sistema educativo Provincial y con alcance Nacional."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "link": "https://scratch.mit.edu/",
+      "name": "Programación y Robótica",
+      "text": "Fundamentales para el desarrollo de habilidades tecnológicas y de resolución de problemas, preparando a los estudiantes para liderar en un mundo cada vez más digital e interconectado."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "link": "https://docs.google.com/presentation/d/1ffwZG2FBr_xUWQ03c3sKNPrHQlliGknu/edit?usp=sharing&ouid=107468497446396183586&rtpof=true&sd=true",
+      "name": "Mejora de Clases",
+      "text": "Herramienta clave que permite una valoración transparente y objetiva del desempeño estudiantil, facilitando la comunicación de expectativas y criterios de calidad en el proceso educativo."
     }
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/04.jpg",
+      "link": "https://archive.org/details/HarfRDeLaPlanificacionALaAccion.EstructurasDidacticas.EM.2019/mode/2up?form=MG0AV3",
+      "text": "\"Una diagramación explícita, permitiendo a los educadores organizar y anticipar su quehacer, para lograr un impacto educativo efectivo.\"",
+      "name": "Ruth Harf"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "link": "https://archive.org/details/pedagogia-de-los-suenos-posibles-paulo-freire-1/mode/2up",
+      "text": "\"La educación bancaria mantiene y estimula la ingenuidad de los educandos, nunca los libera ni despierta en ellos el espíritu crítico.\"",
+      "name": "Paulo Freire"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "link": "https://drive.google.com/file/d/1yCI8zgopNQKVQe8qhcn9z-nqk0n04BQl/view?usp=sharing",
+      "text": "\"Las prácticas de enseñanza emergentes deben ser reflexivas, inmersivas y multiexpresivas, desafiando las categorías tradicionales de tiempo y espacio.\"",
+      "name": "Miriam Kap"
     }
   ],
   "Team": [
