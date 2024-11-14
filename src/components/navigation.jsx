@@ -24,6 +24,7 @@ export const Navigation = (props) => {
             rel="noopener noreferrer"
             href="https://educacion.uncuyo.edu.ar/">
             <img 
+              style={{width: "300px", height: "auto", marginTop: "-15px"}}
               className="logo"
               src={logo} 
               alt="" />
