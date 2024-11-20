@@ -1,6 +1,6 @@
 {
   "Header": {
-    "title": "Narrativa Didáctica de la Informática",
+    "title": "Narrativa Digital Didáctica de la Informática",
     "paragraph": "Presentación de lo vivenciado en el espacio curricular de Didáctica de la Informática en la Facultad de Educación de la UNCUYO"
   },
   "Navigation": {
@@ -86,15 +86,15 @@
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "link": "https://ideogram.ai/t/my-images/public",
+      "link": "https://drive.google.com/file/d/1CkkKEfPunl3uXUWkLn8SoZlfGiF7Ednm/view?usp=sharing",
       "name": "Enfoques de Enseñanza",
       "text": "Están diseñados para gestionar el aprendizaje de manera eficiente, apoyar el bienestar emocional de los estudiantes y fomentar el pensamiento crítico y la emancipación."
     },
     {
       "icon": "fa fa-cloud-download",
       "link": "https://www.educ.ar/recursos/fullscreen/show/22348",
-      "name": "Recursos Educativos Abiertos",
-      "text": "Herramientas fundamentales que permiten el acceso libre y equitativo al conocimiento, promoviendo la colaboración y la innovación en la educación."
+      "name": "Recursos Educativos Digitales",
+      "text": "Los recursos educativos digitales abren nuevas oportunidades para el aprendizaje, permitiendo el acceso instantáneo a información y herramientas que enriquecen la educación y promueven el conocimiento global."
     },
     {
       "icon": "fa fa-language",
@@ -117,13 +117,13 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/04.jpg",
+      "img": "img/testimonials/01.jpg",
       "link": "https://archive.org/details/HarfRDeLaPlanificacionALaAccion.EstructurasDidacticas.EM.2019/mode/2up?form=MG0AV3",
       "text": "\"Una diagramación explícita, permitiendo a los educadores organizar y anticipar su quehacer, para lograr un impacto educativo efectivo.\"",
       "name": "Ruth Harf"
     },
     {
-      "img": "img/testimonials/02.jpg",
+      "img": "img/testimonials/02.png",
       "link": "https://archive.org/details/pedagogia-de-los-suenos-posibles-paulo-freire-1/mode/2up",
       "text": "\"La educación bancaria mantiene y estimula la ingenuidad de los educandos, nunca los libera ni despierta en ellos el espíritu crítico.\"",
       "name": "Paulo Freire"
